@@ -18,6 +18,7 @@ body {
     width: max(500px,60vmin);
     height: 50vmin;
     flex-direction: column;
+    margin: 0px 20px 0px 40px;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;

@@ -17,6 +17,8 @@ body {
     align-items: center;
     min-width: 500px;
     min-height: 400px;
+    min-width: 500px;
+    min-height: 400px;
     width: 500px;
     height: 400px;
     border-radius: 50px;
@@ -54,10 +56,10 @@ body {
     cursor: pointer;
 }
 
-#submit:hover {
+.submit:hover {
     background-color: rgb(109, 163, 224);
 }
 
-#submit:active {
+.submit:active {
     background-color: rgb(140, 177, 219);
 }

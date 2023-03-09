@@ -3,7 +3,9 @@ body {
 }
 
 .container {
+    /* Display Flex */
     display: flex;
+    /* Center UI Horizontally and Vertically */
     justify-content: center;
     align-items: center;
     width: 100vw;
@@ -18,10 +20,12 @@ body {
     margin: 20px;
     width: 500px;
     height: 400px;
+    /* Min Size */
     min-width: 300px;
     min-height: 400px;
     font-family: "Sono", sans-serif;
     border-radius: 50px;
+    /* Box Shadow */
     box-shadow: rgb(224, 224, 224) 0 0 10px 0;
 }
 
